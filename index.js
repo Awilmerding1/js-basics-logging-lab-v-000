@@ -1,5 +1,3 @@
 const driver = 'bob';
 
-function console.log() {
-  
-}
+console.log("")
